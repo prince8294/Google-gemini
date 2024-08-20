@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Google-gemini/static/css/main.53f4d5d9.css",
+    "main.js": "/Google-gemini/static/js/main.779528ec.js",
+    "static/js/453.ffceb31b.chunk.js": "/Google-gemini/static/js/453.ffceb31b.chunk.js",
+    "static/media/user_icon.png": "/Google-gemini/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/gallery_icon.png": "/Google-gemini/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/Google-gemini/index.html",
+    "main.53f4d5d9.css.map": "/Google-gemini/static/css/main.53f4d5d9.css.map",
+    "main.779528ec.js.map": "/Google-gemini/static/js/main.779528ec.js.map",
+    "453.ffceb31b.chunk.js.map": "/Google-gemini/static/js/453.ffceb31b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f4d5d9.css",
+    "static/js/main.779528ec.js"
+  ]
+}
